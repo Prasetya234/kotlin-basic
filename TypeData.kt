@@ -16,4 +16,13 @@ fun main() {
     // string template
     var templateString: String = "Hello My name is $firstName and my last name is $lastName"
     println(templateString)
+
+    // variable biasa
+    var mutable:String = "Hello"
+    mutable = "Hello 2"
+
+    // variable constant
+    val immutable: String = "Hello"
+//    immutable = "Hello 2"
+
 }
