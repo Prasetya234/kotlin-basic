@@ -40,7 +40,7 @@ fun main() {
 //    if true ->  println("LULUS")
 //    else -> println("TIDAK LULUS")
 
-    val nilai2: Int = 60
+    val nilai2: Int = 100
 
     when {
         nilai2 >= 90 -> println("Nilai bagus")
